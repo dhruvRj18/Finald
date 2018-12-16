@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Travellers Pass App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="url">https://greydevelope.000webhostapp.com//final/</string>
+
+    <string name="emailerror">Enter a valid email</string>
+    <string name="mobileerror">Enter a valid mobile</string>
+    <string name="passworderror">Enter a valid password</string>
+</resources>

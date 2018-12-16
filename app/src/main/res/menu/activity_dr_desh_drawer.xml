@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_pass_ser"
+            android:icon="@drawable/pass_reg"
+            android:title="Pass Services" />
+
+        <item
+            android:id="@+id/nav_wlt"
+            android:icon="@drawable/wallet"
+            android:title="Wallet" />
+
+
+        <item
+            android:id="@+id/nav_trac"
+            android:icon="@drawable/trace"
+            android:title="Trace Your Bus" />
+        <item
+            android:id="@+id/nav_busesontheroute"
+            android:icon="@drawable/busesonthereoute"
+            android:title="Buses On the Route" />
+
+        <item
+            android:id="@+id/nav_cmp"
+            android:icon="@drawable/cmplnt"
+            android:title="Complaitns" />
+    </group>
+
+    <item android:title="More">
+        <menu>
+
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_exit_to_app_black_24dp"
+                android:title="Logout" />
+            <item
+                android:id="@+id/nav_review"
+                android:icon="@drawable/rating"
+                android:title="Rate Us"/>
+        </menu>
+
+    </item>
+
+</menu>
